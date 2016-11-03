@@ -1,0 +1,5 @@
+E:\XiaoYong666\show_TextBox\可输入的下拉框\可输入的下拉框\obj\Debug\ResolveAssemblyReference.cache
+E:\XiaoYong666\show_TextBox\可输入的下拉框\可输入的下拉框\bin\可输入的下拉框.dll
+E:\XiaoYong666\show_TextBox\可输入的下拉框\可输入的下拉框\bin\可输入的下拉框.pdb
+E:\XiaoYong666\show_TextBox\可输入的下拉框\可输入的下拉框\obj\Debug\可输入的下拉框.dll
+E:\XiaoYong666\show_TextBox\可输入的下拉框\可输入的下拉框\obj\Debug\可输入的下拉框.pdb
